@@ -1,0 +1,12 @@
+//
+//  main.swift
+//  XcodeForkServer
+//
+//  Created by Myoung-Wan Koo on 2020/05/02.
+//  Copyright © 2020 Myoung-Wan Koo. All rights reserved.
+//
+
+import Foundation
+
+print("Hello, World!")
+
